@@ -14,3 +14,10 @@ Requirements:
 - Some pens write in same way
 - Every pen has brand and name
 - Some pens allow refilling and others may not
+
+# UML diagrams
+
+- Use Case Diagram (Behavioural Diagram)
+- Sequence Diagram (Behavioural Diagram)
+- Class Diagram (Structural Diagram)
+- Component Diagram (Structural Diagram)
